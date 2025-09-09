@@ -5,7 +5,7 @@
 ### Backend (Flask)
 ```bash
 cd backend
-pip install -r requirements.txt
+pip install flask flask-cors
 python app.py
 ```
 Runs on http://localhost:5000
